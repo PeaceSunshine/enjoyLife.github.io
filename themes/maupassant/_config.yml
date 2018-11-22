@@ -77,7 +77,7 @@ menu:
  ##   directory: atom.xml
  ##   icon: fa-rss
   - page: Today
-    directory: today
+    directory: categories/今日总结
     icon: fa-pencil
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
