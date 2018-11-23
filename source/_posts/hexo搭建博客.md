@@ -1,5 +1,6 @@
 ---
 title: hexo搭建博客
+date: 2018-11-22 17:52:42
 tags: [hexo]
 categories: 
 - 部署
