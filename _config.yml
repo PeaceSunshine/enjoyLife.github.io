@@ -84,6 +84,7 @@ mathjax: true
 deploy:
   type: git
   repository: https://github.com/PeaceSunshine/PeaceSunshine.github.io.git
+  # repository: https://PeaceSunshine:githubliuxing1996github.com/PeaceSunshine/PeaceSunshine.github.io.git
   branch: master
 
 
